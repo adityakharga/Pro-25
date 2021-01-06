@@ -6,7 +6,7 @@ const Body = Matter.Body;
 
 function preload()
 {
-  dustbin = loadImage("sprites/PRO-25_3.PNG")	
+  dustbin = loadImage("Sprites/PRO-25_3.PNG")	
 }
 
 function setup()
